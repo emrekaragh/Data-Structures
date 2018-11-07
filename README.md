@@ -10,13 +10,13 @@
 ### The data structures  I am interested in:
 
 
-* Tree (Ağaçlar)
-* Linked (List Bağlı Liste)
-* Stack (Yığın)
-* Queue (Kuyruk)
-* Vector (Vektör)
-* Lists (Listeler)
-* Heap (Yığın Ağacı)
-* Hash tables (Karım Tablosu)
-* Graphs (Graflar)
-* State Machines (Durum Makineleri)
+* **Tree** (Ağaçlar)
+* **Linked List** (Bağlı Liste)
+* **Stack** (Yığın)
+* **Queue** (Kuyruk)
+* **Vector** (Vektör)
+* **Lists** (Listeler)
+* **Heap** (Yığın Ağacı)
+* **Hash tables** (Karım Tablosu)
+* **Graphs** (Graflar)
+* **State Machines** (Durum Makineleri)
