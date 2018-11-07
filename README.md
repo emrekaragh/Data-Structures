@@ -1,19 +1,22 @@
 # Data Structures
 
-This is my internship project.
 
-Coding "intrustive" data structures with C++
+#### This is my internship project.
 
-Creating simple versions of this, who has primitive data types. in Python
+#### Coding "intrustive" data structures with C++
 
-The data structures  I am interested in:
+#### Creating simple versions of this, who has primitive data types. in Python
 
-* Ağaçlar (Tree) 
-* Bağlı Liste (Linked List) 
-* Yığın (Stack) Kuyruk (Queue) 
-* Vektör (Vector) 
-* Listeler (Lists) 
-* Yığın Ağacı (Heap) 
-* Karım Tablosu (Hash tables) 
-* Graflar ( Graphs ) 
-* Durum Makineleri ( State Machines )
+### The data structures  I am interested in:
+
+
+* Tree (Ağaçlar)
+* Linked (List Bağlı Liste)
+* Stack (Yığın)
+* Queue (Kuyruk)
+* Vector (Vektör)
+* Lists (Listeler)
+* Heap (Yığın Ağacı)
+* Hash tables (Karım Tablosu)
+* Graphs (Graflar)
+* State Machines (Durum Makineleri)
